@@ -1,5 +1,5 @@
 bb_cardbasic:
-  label: Card basic
+  label: Card basic (Display Suite, legacy)
   category: Barrio
   template: templates/ds/layout--ds-card-basic
   class: '\Drupal\ds\Plugin\DsLayout'
@@ -7,7 +7,7 @@ bb_cardbasic:
     first:
       label: Content
 bb_cardtopimage:
-  label: Card top image
+  label: Card top image (Display Suite, legacy)
   category: Barrio
   template: templates/ds/layout--ds-card-top-image
   class: '\Drupal\ds\Plugin\DsLayout'
@@ -17,7 +17,7 @@ bb_cardtopimage:
     second:
       label: Content
 bb_cardimageoverlay:
-  label: Card image overlay
+  label: Card image overlay (Display Suite, legacy)
   category: Barrio
   template: templates/ds/layout--ds-card-image-overlay
   class: '\Drupal\ds\Plugin\DsLayout'
@@ -27,7 +27,7 @@ bb_cardimageoverlay:
     second:
       label: Content
 bb_cardheaderfooter:
-  label: Card header footer
+  label: Card header footer (Display Suite, legacy)
   category: Barrio
   template: templates/ds/layout--ds-card-header-footer
   class: '\Drupal\ds\Plugin\DsLayout'
@@ -39,7 +39,7 @@ bb_cardheaderfooter:
     third:
       label: Footer
 bb_card3stack:
-  label: Card three block stacked
+  label: Card three block stacked (Display Suite, legacy)
   category: Barrio
   template: templates/ds/layout--ds-card-3stack
   class: '\Drupal\ds\Plugin\DsLayout'
@@ -51,7 +51,7 @@ bb_card3stack:
     third:
       label: Second
 bb_media:
-  label: Media
+  label: Media (Display Suite, legacy)
   category: Barrio
   template: templates/ds/layout--ds-media
   class: '\Drupal\ds\Plugin\DsLayout'
