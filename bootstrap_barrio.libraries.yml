@@ -2,7 +2,7 @@ global-styling:
   version: VERSION
   js:
     js/global.js: {}
-    js/affix.js: {}
+#    js/affix.js: {}
   css:
     component:
       css/components/affix.css: {}
